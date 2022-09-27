@@ -4,4 +4,4 @@ to projects involving low-level function-based dev.
 I am currently developing a custom motherboard for a game system based
 around a Raspberry Pi Pico.
 
-If you need to contact me, do so via email at racrtherobot19@gmail.com.
+If you need to contact me, please do so via email at racrtherobot19@gmail.com.
